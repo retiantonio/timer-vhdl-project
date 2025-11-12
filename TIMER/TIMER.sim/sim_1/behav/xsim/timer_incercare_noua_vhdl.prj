@@ -1,0 +1,16 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../MPG.vhd" \
+"../../../../TIMER.srcs/sources_1/new/STATE_MACHINE.vhd" \
+"../../../../TIMER.srcs/sources_1/new/alt_mux.vhd" \
+"../../../../TIMER.srcs/sources_1/new/counter17.vhd" \
+"../../../../TIMER.srcs/sources_1/new/counter_reversibil.vhd" \
+"../../../../TIMER.srcs/sources_1/new/counter_reversibil2.vhd" \
+"../../../../TIMER.srcs/sources_1/new/display.vhd" \
+"../../../../TIMER.srcs/sources_1/new/freq_div.vhd" \
+"../../../../TIMER.srcs/sources_1/new/mux8_1.vhd" \
+"../../../../TIMER.srcs/sources_1/new/mux_anod.vhd" \
+"../../../../TIMER.srcs/sources_1/new/timer_incercare_noua.vhd" \
+
+# Do not sort compile order
+nosort

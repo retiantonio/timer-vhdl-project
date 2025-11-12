@@ -1,0 +1,8 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/vivado/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot timer_incercare_noua_behav xil_defaultlib.timer_incercare_noua -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-8554] case statement does not cover all choices; 'others' clause is needed [C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/counter_reversibil2.vhd:56]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit timer_incercare_noua in library work failed.

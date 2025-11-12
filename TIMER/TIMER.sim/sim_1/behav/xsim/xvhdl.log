@@ -1,0 +1,22 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/MPG.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MPG'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/STATE_MACHINE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'STATE_MACHINE'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/alt_mux.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'alt_mux'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/counter17.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counter17'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/counter_reversibil.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counter_reversibil'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/counter_reversibil2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'counter_reversibil2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/display.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'display'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/freq_div.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'divizor'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/mux8_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'convertor'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/mux_anod.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mux_anod'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/retia/Documents/FACULTATE/ANUL1SEM2/PSN/TIMER/TIMER.srcs/sources_1/new/timer_incercare_noua.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'timer_incercare_noua'

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1717515145">
+  <File Type="REPORTS-TCL" Name="timer_incercare_noua_reports.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="timer_incercare_noua_power_summary_routed.pb"/>
+  <File Type="BITSTR-MMI" Name="timer_incercare_noua.mmi"/>
+  <File Type="OPT-DRC" Name="timer_incercare_noua_drc_opted.rpt"/>
+  <File Type="BG-DRC" Name="timer_incercare_noua.drc"/>
+  <File Type="ROUTE-STATUS-PB" Name="timer_incercare_noua_route_status.pb"/>
+  <File Type="BG-BGN" Name="timer_incercare_noua.bgn"/>
+  <File Type="PLACE-UTIL" Name="timer_incercare_noua_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="timer_incercare_noua_utilization_placed.pb"/>
+  <File Type="PLACE-IO" Name="timer_incercare_noua_io_placed.rpt"/>
+  <File Type="BG-BIN" Name="timer_incercare_noua.bin"/>
+  <File Type="PLACE-CTRL" Name="timer_incercare_noua_control_sets_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="timer_incercare_noua_power_routed.rpx"/>
+  <File Type="ROUTE-DCP" Name="timer_incercare_noua_routed.dcp"/>
+  <File Type="BITSTR-MSK" Name="timer_incercare_noua.msk"/>
+  <File Type="BITSTR-RBT" Name="timer_incercare_noua.rbt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="timer_incercare_noua_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="timer_incercare_noua_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="timer_incercare_noua_route_status.rpt"/>
+  <File Type="PA-TCL" Name="timer_incercare_noua.tcl"/>
+  <File Type="ROUTE-PWR" Name="timer_incercare_noua_power_routed.rpt"/>
+  <File Type="ROUTE-DRC" Name="timer_incercare_noua_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="timer_incercare_noua_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="timer_incercare_noua_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="timer_incercare_noua.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="timer_incercare_noua_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="timer_incercare_noua_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="timer_incercare_noua.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="timer_incercare_noua_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-SIMILARITY" Name="timer_incercare_noua_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="timer_incercare_noua.vdi"/>
+  <File Type="ROUTE-CLK" Name="timer_incercare_noua_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="timer_incercare_noua_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="timer_incercare_noua_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="timer_incercare_noua_bus_skew_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="timer_incercare_noua_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="timer_incercare_noua_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="timer_incercare_noua_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="timer_incercare_noua_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="timer_incercare_noua_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="timer_incercare_noua.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="timer_incercare_noua_bus_skew_postroute_physopted.pb"/>
+  <File Type="BITSTR-NKY" Name="timer_incercare_noua.nky"/>
+  <File Type="BITSTR-BMM" Name="timer_incercare_noua_bd.bmm"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-HWDEF" Name="timer_incercare_noua.hwdef"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="timer_incercare_noua_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="timer_incercare_noua_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="timer_incercare_noua_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMING-PB" Name="timer_incercare_noua_timing_summary_routed.pb"/>
+  <File Type="OPT-DCP" Name="timer_incercare_noua_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="timer_incercare_noua_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="timer_incercare_noua_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="timer_incercare_noua_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="timer_incercare_noua_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="timer_incercare_noua_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="timer_incercare_noua_postroute_physopt_bb.dcp"/>
+  <File Type="PDI-FILE" Name="timer_incercare_noua.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="timer_incercare_noua_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="timer_incercare_noua_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="timer_incercare_noua.rcfi"/>
+  <File Type="CFI_FILE" Name="timer_incercare_noua.cfi"/>
+  <File Type="RNPI_FILE" Name="timer_incercare_noua.rnpi"/>
+  <File Type="NPI_FILE" Name="timer_incercare_noua.npi"/>
+  <File Type="RBD_FILE" Name="timer_incercare_noua.rbd"/>
+  <File Type="ROUTE-RQS" Name="timer_incercare_noua_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="timer_incercare_noua_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="C:/Users/retia/Downloads/MPG.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/STATE_MACHINE.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/alt_mux.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/counter17.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/counter_reversibil.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/counter_reversibil2.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/display.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/freq_div.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux8_1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux_anod.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/timer_incercare_noua.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="timer_incercare_noua"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../TIMER.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/timer_incercare_noua.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="UsedInSteps" Val="synth_1_copy_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

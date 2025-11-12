@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="15824" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="2900" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="27336" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="15320" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="13536" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="8664" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="2576" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="20240" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="retia" Host="ANTOSLAPTOP" Pid="27892" HostCore="16" HostMemory="016369225728">
+    </Process>
+</ProcessHandle>
